@@ -12,6 +12,7 @@ Linux server configuration project.
 + Installed PostgreSQL to serve as the database backened for my applications
 + Installed Apache web server
 + Installed git to clone repository from github.
+
 <b> To run the [FLASK appication](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)</b>
 + Installed and enabled mod_wsgi (WSGI (Web Server Gateway Interface) is an interface between web servers and web apps for python. Mod_wsgi is an Apache HTTP server mod that enables Apache to serve Flask applications.)
 + flask
